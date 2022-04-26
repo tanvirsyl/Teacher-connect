@@ -1,0 +1,7 @@
+.container-std{
+  height: 110vh;
+  background-image: url('../../assets/gray-abstract-wireframe-technology-background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #FAFAFF;
+}

@@ -1,0 +1,19 @@
+.container-teacher{
+  height: 110vh;
+  background-image: url('../../assets/4858794.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #FAFAFF;
+}
+.camera{
+  color: #1dbf73;
+}
+@media only screen and (min-width:320px) and (max-width:450px){
+  .container-teacher{
+    height: 150vh;
+    background-image: url('../../assets/4858794.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #FAFAFF;
+  }
+}

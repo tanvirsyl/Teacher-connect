@@ -1,0 +1,72 @@
+.about {
+  height: 100vh;
+  width: 100%;
+  background: #23263a;
+  padding: 100px 0;
+}
+.about__img {
+  padding: 30px;
+}
+.about__img img {
+  width: 300px;
+  height: 400px;
+}
+.about__info {
+  color: #fff;
+}
+.about__info h1 {
+  margin-bottom: 30px;
+}
+.about__info-p1 {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+.about__info-p2 {
+  font-size:16px;
+}
+.about-container{
+  background-color:#1F2235
+}
+
+button.StripeCheckout {
+  width: 100%;
+}
+
+.modal-body {
+  text-align: center;
+}
+
+.modal-content {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 100%;
+  pointer-events: auto;
+  background-color: #000;
+  color: #fff;
+  background-clip: padding-box;
+  border: 1px solid rgba(0,0,0,.2);
+  border-radius: 20px;
+  outline: 0;
+}
+
+@media only screen and (min-width: 0px) and (max-width: 360px) {
+  .about {
+    height: 190vh;
+    width: 100%;
+    background: #23263a;
+    padding: 100px 0;
+  }
+}
+
+@media only screen and (min-width: 361px) and (max-width: 767px) {
+  .about {
+    height: 170vh;
+    width: 100%;
+    background: #23263a;
+    padding: 100px 0;
+  }
+
+}

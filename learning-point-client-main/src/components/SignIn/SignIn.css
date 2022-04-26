@@ -1,0 +1,7 @@
+.container-full {
+  height: 110vh;
+  background-image: url('../../assets/bg.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #FAFAFF;
+}
